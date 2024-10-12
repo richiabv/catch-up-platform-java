@@ -18,6 +18,6 @@ This is a platform that allows users to catch up on their favorite TV shows. Use
 - ORM
 
 ## Authors
-- [Kenny](xyz@upc.edu.pe)
-
+- [Ricardo Andree Barrutia Vaez](u201714765@upc.edu.pe) Code: U201714765
+- [Max Anthony Paitan Pumacahua](u201314454@upc.edu.pe) Code: U201314454
 
